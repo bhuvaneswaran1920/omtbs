@@ -1,0 +1,407 @@
+/* Global Styles */
+body {
+	margin:0px;
+	
+	color:white;
+	}
+
+
+.top{
+	position: relative;
+	background-color:#2fc4b2;
+	padding-top: 150px;
+}
+#logo{
+	position:absolute;
+	right:500px;
+	top:30px;
+}
+
+
+
+.navigation{
+	position: absolute;
+	background-color: #12947f;
+	top: 150px;
+	width: 300px;
+	height: 650px;
+}
+
+.button{
+	display: inline-block;
+
+	margin: 15% 10% 0 30%;
+
+}
+.right{
+	position: absolute;
+	background-color: #f17808;
+	height: 650px;
+	top:150px;
+	left:300px;
+
+}
+.carousel-item{
+    padding: 7% 15% ;
+}
+
+.testimg{
+    width: 100px;
+    margin: 10px 20px 15px;
+    border-radius: 100%;
+}
+.media{
+	text-align: center;
+	margin-left:400px;
+}
+#press{
+    
+    text-align: center  ;
+    padding:50px;
+}
+.imgpress{
+    width: 150px;
+    margin: 10px 20px 15px;
+}
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Montserrat';
+	color:#fff;
+	position: absolute;
+	top:800px;
+	width: 1349px;	
+}
+
+#footer{
+    background-color: #ff4c68;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	position: absolute;
+	top:860px;
+	width: 1349px;
+    
+}
+.foot{
+    color: #fff;
+}
+
+/* offers.html */
+
+.card-title{
+	color: black;
+}
+.card-text{
+	color: black;
+}
+
+.hh2{
+	margin-left: 300px;
+	padding-right: 357px;
+	padding-top:40px;
+}
+.para{
+	margin-left: 300px;
+	padding-right: 354px;
+}
+
+.card{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+/* movies.html */
+.moviesimg{
+	display: inline;
+    margin: 10px 200px 15px;
+}
+
+#right{
+	position: absolute;
+	background-color: #f17808;
+	height: 1090px;
+	top:150px;
+	left:300px;
+	text-align: center;
+}
+
+#navigation{
+	position: absolute;
+	background-color: #12947f;
+	top: 150px;
+	width: 300px;
+	height: 1090px;
+}
+
+#cta-movies{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Montserrat';
+	color:#fff;
+	position: absolute;
+	top:1240px;
+	width: 1349px;	
+}
+
+#footer-movies{
+    background-color: #ff4c68;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	position: absolute;
+	top:1300px;
+	width: 1349px;
+    
+}
+.foot{
+    color: #fff;
+}
+.mp{
+	color: blue;
+	margin-top: 50px;
+}
+#best{
+	padding: 0 140px 0;
+}
+.bs{
+	margin: 10px 20px 15px;
+	
+}
+.em1{
+	position:absolute;
+	top:950px;
+	right:700px;
+}
+.em2{
+	position:absolute;
+	top:950px;
+	right:500px;
+}
+.em3{
+	position:absolute;
+	top:950px;
+	right:280px;
+}
+.nr{
+	padding-top: 20px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+/* login-new.html */
+.login{
+	padding: 10px 100px 0;
+	margin-left: 400px;
+	
+}
+.login-head{
+	text-align: center;
+	padding: 150px 400px 20px;
+	margin-left: 75px;
+	display: inline-block;
+}
+.login-p{
+	margin-left: 350px;
+	margin-top: 20px;
+	display: inline-block;
+}
+.login-forgot{
+	margin-left: 450px;
+	margin-top: 20px;
+	display: inline-block;
+}
+.logbutton{
+	margin-left: 480px;
+	margin-top: 20px;
+}
+
+/* signup.html */
+.signin-top{
+	text-align: center;
+	padding: 150px 454px 20px;
+	margin-left: 35px;
+	display: inline-block;
+}
+
+/* theatres.html */
+.hall{
+	visibility: hidden;
+}
+.tp{
+	color:blue;
+}
+.list{
+	margin-left: 125px;
+	display: inline-block;
+}
+#film{
+	
+	display: inline-block;
+	margin-left:109px ;
+	width:400px;
+}
+#place{
+	display: inline-block;
+	margin-left:149px ;
+	width:400px;
+}
+#time{
+	display: inline-block;
+	margin-left:19px ;
+	width:400px;
+}
+
+#finalBtn{
+	margin-top: 29px;
+}
+#cta-theatres{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Montserrat';
+	color:#fff;
+	position: absolute;
+	top:1640px;
+	width: 1349px;	
+}
+
+#footer-theatres{
+    background-color: #ff4c68;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	position: absolute;
+	top:1700px;
+	width: 1349px;
+    
+}
+.foot{
+    color: #fff;
+}
+#right-theatres{
+	position: absolute;
+	background-color: #f17808;
+	height: 1490px;
+	top:150px;
+	left:300px;
+	text-align: center;
+}
+
+#navigation-theatres{
+	position: absolute;
+	background-color: #12947f;
+	top: 150px;
+	width: 300px;
+	height: 1490px;
+}
+#drop{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+}
+
+#Coupon
+{
+  border:none;
+  border-bottom:1px solid;
+}
+
+.screen
+{
+  width:100%;
+  height:20px;
+  background:#4388cc;
+  color:#fff;
+  line-height:20px;
+  font-size:15px;
+}
+
+.smallBox::before
+{
+  content:".";
+  width:15px;
+  height:15px;
+  float:left;
+  margin-right:10px;
+}
+.greenBox::before
+{
+  content:"";
+  background:Green;
+}
+.redBox::before
+{
+  content:"";
+  background:Red;
+}
+.emptyBox::before
+{
+  
+  box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, .3), 0px 1px 0px 0px rgba(255, 255, 255, .8);
+    background-color:#ccc;
+}
+
+.seats
+{
+  border:1px solid red;background:yellow ;
+  color:black;
+} 
+
+
+
+.seatGap
+{
+  width:40px;
+}
+
+.seatVGap
+{
+  height:40px;
+}
+
+table
+{
+  text-align:center;
+}
+
+
+.Displaytable
+{
+  text-align:center;
+}
+.Displaytable td, .Displaytable th {
+    border: 1px solid;
+    text-align: left;
+}
+
+textarea
+{
+  border:none;
+  background:transparent;
+}
+
+
+
+input[type=checkbox] {
+    width:0px;
+    margin-right:18px;
+}
+
+input[type=checkbox]:before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    vertical-align:middle;
+    text-align: center;
+    box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, .3), 0px 1px 0px 0px rgba(255, 255, 255, .8);
+    background-color:#ccc;
+}
+
+input[type=checkbox]:checked:before {
+    background-color:Green;
+    font-size: 15px;
+}
